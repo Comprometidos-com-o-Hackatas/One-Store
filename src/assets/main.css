@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#app {
+  max-width: 99vw;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-weight: normal;
+  overflow-x: hidden;
+}
