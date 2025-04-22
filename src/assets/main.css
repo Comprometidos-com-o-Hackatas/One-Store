@@ -9,3 +9,10 @@
   font-weight: normal;
   overflow-x: hidden;
 }
+
+@font-face {
+  font-family: 'Gang of Three';
+  src: url('@/assets/fonts/go3v2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
