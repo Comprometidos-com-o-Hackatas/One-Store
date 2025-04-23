@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import '@mdi/font/css/materialdesignicons.css';
 
 #app {
   max-width: 99vw;
@@ -7,5 +8,5 @@
   padding: 0px;
   box-sizing: border-box;
   font-weight: normal;
-  overflow-x: hidden;
+
 }

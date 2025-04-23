@@ -10,6 +10,7 @@
     "test:unit": "vitest"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
     "@tailwindcss/vite": "^4.1.4",
     "pinia": "^3.0.1",
     "tailwindcss": "^4.1.4",
