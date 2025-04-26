@@ -6,6 +6,7 @@ import SearchBar from "./layouts/header/SearchBar.vue";
 import DescritptionDetails from "./cards/details/DescritptionDetails.vue";
 import RatingDetails from "./cards/details/RatingDetails.vue";
 import DetailContainer from "./containers/DetailContainer.vue";
+import ProductsOptions from "./layouts/products/productsOptions.vue";
 
 export {
   GlobalButton,
@@ -15,5 +16,6 @@ export {
   SearchBar,
   DescritptionDetails, 
   RatingDetails,
-  DetailContainer
+  DetailContainer,
+  ProductsOptions
 }
