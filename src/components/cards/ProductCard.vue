@@ -24,7 +24,6 @@ const emits = defineEmits([
     'sendProduct'
 ])
 </script>
-
 <template>
  <span class=" flex flex-col w-32 h-56 m-20 hover:brightness-[95%] rounded-[11px] hover:bg-[rgba(0,0,0,0.05)] hover:scale-[103%] duration-200 cursor-default z-40 ">
     <div class="h-9/12 cursor-pointer relative flex justify-center">
@@ -40,7 +39,6 @@ const emits = defineEmits([
         </div>
     </div>
     </div>
-
     <div class="h-3/12 w-full flex">
         <div class="flex justify-center flex-col w-8/12">
             <p class=" font-medium text-[18px]">$ {{ props.price }}</p>
