@@ -34,7 +34,7 @@ const emits = defineEmits([
             <img class=" h-44 z-20 w-full bottom-0 object-contain absolute" src="@/assets/images/goldDroger.png" alt="">
                    
             <div class="w-full z-30 bg-[#fb7d54] flex justify-center items-center p-2 border-description">
-                <p class="text-white font-medium text-center">{{ props.name }}</p>
+                <p class="text-white font-extralight text-sm text-center">{{ props.name }}</p>
                        
             </div>
         </div>
@@ -43,8 +43,8 @@ const emits = defineEmits([
 
     <div class="h-3/12 w-full flex">
         <div class="flex justify-center flex-col w-8/12">
-            <p class=" font-bold text-[18px]">$ {{ props.price }}</p>
-            <div class="flex gap-1"><span class="mdi mdi-star text-[12px] text-yellow-400"></span> <p class="text-gray-500 font-semibold text-[12px]"> {{ props.rating }} ({{ props.amountOfRate }})</p></div>
+            <p class=" font-medium text-[18px]">$ {{ props.price }}</p>
+            <div class="flex gap-1"><span class="mdi mdi-star text-[12px] text-yellow-400"></span> <p class="text-gray-500 font-light text-[12px]"> {{ props.rating }} ({{ props.amountOfRate }})</p></div>
         </div>
 
         <div class="w-4/12 flex items-center justify-end cursor-pointer">
