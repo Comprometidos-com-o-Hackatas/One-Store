@@ -12,6 +12,15 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
+  server: {
+    host: '0.0.0.0',
+    port: 5173,
+    strictPort: true,
+    cors: true,
+    allowedHosts: [
+      'a8fc-187-99-117-69.ngrok-free.app' // ou qualquer subdomínio do ngrok que estiver usando
+    ]
+  },
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

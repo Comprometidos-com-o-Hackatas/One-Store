@@ -1,0 +1,105 @@
+
+.bar {
+    height: 2.5px;
+    border-radius: 200px;
+    background-color: black;
+    position: absolute;
+}
+.bar-menu-1 {
+    width: 90%;
+    top: 10px;
+    animation: close-1 0.2s 1 ease-in-out;
+}
+
+.bar-menu-2 {
+    width: 60%;
+    height: 2.4px;
+    animation: close-2 0.2s 1 ease-in-out;
+}
+
+.bar-menu-3 {
+    width: 90%;
+    top: 28px;
+    animation: close-3 0.2s 1 ease-in-out;
+}
+
+.open-1 {
+    width: 60%;
+    animation: bar-1 0.2s 1 ease-in-out;
+    opacity: 0;
+}
+
+.open-2 {
+    width: 60%;
+    animation: bar-2 0.2s 1 ease-in-out;
+    transform: rotate(45deg);
+}
+
+.open-3 {
+    width: 60%;
+    animation: bar-3 0.2s 1 ease-in-out;
+    transform: rotate(-45deg);
+}
+
+@keyframes bar-1 {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes bar-2 {
+    from {
+        transform: rotate(0deg);
+      
+    }
+    to {
+      
+        transform: rotate(45deg);
+    }
+}
+
+@keyframes bar-3 {
+    from {
+        width: 90%;
+        transform: rotate(0deg);
+    }
+    to {
+        width: 60%;
+        transform: rotate(-45deg);
+    }
+}
+
+@keyframes close-1 {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes close-2 {
+    from {
+    
+        transform: rotate(45deg);
+    }
+    to {
+        transform: rotate(0deg);
+    
+    }
+}
+
+@keyframes close-3 {
+    from {
+        width: 60%;
+        transform: rotate(-45deg);
+    }
+    to {
+        width: 90%;
+        transform: rotate(0deg);
+
+    }
+}
