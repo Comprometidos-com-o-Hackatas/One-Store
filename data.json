@@ -3,9 +3,9 @@
         "id": 1,
         "nome": "Monkey D. Luffy",
         "bando": "Chapéus de Palha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Capitão dos Chapéus de Palha, Luffy sonha em se tornar o Rei dos Piratas. Com a Gomu Gomu no Mi, ele transforma seu corpo em borracha, mas seu verdadeiro poder vem de sua determinação inabalável e desejo de liberdade. Com um sorriso contagiante, Luffy reúne amigos e desafia o próprio mundo, rompendo fronteiras com sua vontade indomável.",
-        "preco": 95.12,
+        "preco": "95.12",
         "imagens": [
             "https://m.media-amazon.com/images/I/71Z9QQuij4L.jpg",
             "https://tse2.mm.bing.net/th?id=OIP.nTXdbsIgvyA1PXba7__-5gAAAA&pid=Api&P=0&h=180",
@@ -16,9 +16,9 @@
         "id": 2,
         "nome": "Roronoa Zoro",
         "bando": "Chapéus de Palha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "O primeiro a se juntar a Luffy, Zoro é um espadachim que domina a arte do Santoryu — três espadas simultaneamente. Sonha em ser o maior espadachim do mundo, carregando o peso das promessas do passado. Ferozmente leal e incrivelmente resistente, Zoro é o escudo silencioso dos Chapéus de Palha.",
-        "preco": 87.45,
+        "preco": "87.45",
         "imagens": [
             "https://tse1.mm.bing.net/th?id=OIP.uG8yI8v1_WTJeVZu_U5DOAHaHa&pid=Api&P=0&h=180",
             "https://www.nekomagic.net/figure_news/201509/large/megahouse_roronoa_zoro06.jpg",
@@ -29,9 +29,9 @@
         "id": 3,
         "nome": "Nami",
         "bando": "Chapéus de Palha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "A navegadora dos Chapéus de Palha, Nami possui habilidades excepcionais para mapear, prever o clima e guiar o navio. Determinada a desenhar o mapa completo do mundo, Nami superou um passado sombrio para se tornar uma mulher confiante e inteligente, capaz de mudar o curso de uma batalha com seu clima-tact.",
-        "preco": 75.30,
+        "preco": "75.30",
         "imagens": [
             "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FTAMASHII-NATIONS-Romance-Spirits-S-H-Figuarts%2Fdp%2FB0CWSMZ18M&psig=AOvVaw1w6CS72Nj6PtJz6G3L9-Q9&ust=1745782035174000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiW2oa39owDFQAAAAAdAAAAABAE",
             "https://m.media-amazon.com/images/I/51VpaW+C50L._AC_SY741_.jpg",
@@ -42,9 +42,9 @@
         "id": 4,
         "nome": "Usopp",
         "bando": "Chapéus de Palha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "O franco-atirador do bando, Usopp é um contador de histórias e inventor criativo. Apesar de seu medo natural, ele demonstra bravura genuína quando mais importa. Armado com sua mira quase sobrenatural e coragem crescente, Usopp busca se tornar um bravo guerreiro do mar, digno das lendas que ele mesmo inventa.",
-        "preco": 70.55,
+        "preco": "70.55",
         "imagens": [
             "https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.lktoys.com.br%2Fusopp-new-world-ver-figuarts-zero-bandai-one-piece&psig=AOvVaw1JlP7SKLsdgfq01fFGdlhK&ust=1745782167176000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjol8m39owDFQAAAAAdAAAAABAE",
             "data:image/jpeg;base64,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",
@@ -55,9 +55,9 @@
         "id": 5,
         "nome": "Sanji",
         "bando": "Chapéus de Palha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "O cozinheiro dos Chapéus de Palha, Sanji é um mestre da culinária e da luta com pernas. Com um passado marcado por rejeição e disciplina cruel, Sanji jurou nunca deixar ninguém passar fome. Seu amor cavalheiresco pelas mulheres e sua habilidade explosiva no combate o tornam uma presença indispensável para o bando.",
-        "preco": 89.99,
+        "preco": "89.99",
         "imagens": [
             "https://cdn.awsli.com.br/1029/1029045/produto/88980527/e20452d45c.jpg",
             "https://imgs.casasbahia.com.br/1564888678/1xg.jpg?imwidth=500",
@@ -68,9 +68,9 @@
         "id": 6,
         "nome": "Edward Newgate (Barba Branca)",
         "bando": "Piratas do Barba Branca",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Edward Newgate, mais conhecido como Barba Branca, é o capitão dos Piratas do Barba Branca e um dos piratas mais temidos do mundo. Seu poder de controlar terremotos com a Gura Gura no Mi coloca-o entre os maiores combatentes da história, sendo capaz de destruir ilhas e até mesmo o próprio mar. Com um coração generoso e um espírito indomável, Barba Branca é o patriarca de sua tripulação, que o vê como um pai.",
-        "preco": 95.90,
+        "preco": "95.90",
         "imagens": [
             "https://m.media-amazon.com/images/I/613DoZhUK-L.jpg"
         ]
@@ -79,9 +79,9 @@
         "id": 7,
         "nome": "Marco",
         "bando": "Piratas do Barba Branca",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Marco é o médico e, por um tempo, o comandante da 1ª divisão dos Piratas do Barba Branca. Usuário da Tori Tori no Mi, Modelo: Fênix, ele possui a habilidade de se regenerar e curar, o que o torna uma figura vital na tripulação. Leal a Barba Branca e aos seus companheiros, Marco é um líder natural e um dos maiores combatentes do bando.",
-        "preco": 92.45,
+        "preco": "92.45",
         "imagens": [
             "https://m.media-amazon.com/images/I/5114Sw56E4L.jpg"
         ]
@@ -90,9 +90,9 @@
         "id": 8,
         "nome": "Ace (Portgas D. Ace)",
         "bando": "Piratas do Barba Branca",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Ace, o comandante da 2ª divisão dos Piratas do Barba Branca, é o irmão mais velho de Luffy. Ele consome a Mera Mera no Mi, adquirindo o poder do fogo, que usa com maestria em combate. Ace é conhecido por sua bravura, orgulho e dedicação a Barba Branca, que o acolheu como um pai. Sua morte durante a guerra contra o Governo Mundial deixou uma marca profunda no mundo dos piratas.",
-        "preco": 88.75,
+        "preco": "88.75",
         "imagens": [
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW0Pm8u1baNnSlcIq5Iq65312W-rqvZZ6LTA&s"
         ]
@@ -101,9 +101,9 @@
         "id": 9,
         "nome": "Jozu",
         "bando": "Piratas do Barba Branca",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Jozu é um dos comandantes mais poderosos dos Piratas do Barba Branca, sendo o responsável pela 3ª divisão. Ele possui a habilidade da Kira Kira no Mi, que transforma seu corpo em diamante, tornando-o praticamente imbatível em combate físico. Jozu é extremamente leal a Barba Branca e um dos pilares de força do bando.",
-        "preco": 84.12,
+        "preco": "84.12",
         "imagens": [
             "https://m.media-amazon.com/images/I/61f80ABJU+L._AC_UF894,1000_QL80_.jpg"
         ]
@@ -111,10 +111,10 @@
     {
         "id": 10,
         "nome": "Tony Tony Chopper",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
-        "descricao": "Tony Tony Chopper é o médico dos Piratas do Chapéu de Palha, uma rena que adquiriu inteligência e forma humana após comer a Hito Hito no Mi, uma Akuma no Mi do tipo Zoan. Rejeitado tanto por humanos quanto por outros animais em sua infância, Chopper encontrou um lar e um propósito através da medicina, inspirado pelo bondoso Dr. Hiluluk e treinado pela durona Dra. Kureha. Apesar de sua aparência fofa e comportamento ingênuo, Chopper é incrivelmente talentoso e determinado, capaz de realizar curas milagrosas e se transformar em diversas formas durante o combate, graças ao seu domínio das propriedades da fruta e ao uso do Rumble Ball. Seu coração puro, combinado com sua coragem em proteger seus amigos, faz dele um dos membros mais adoráveis e essenciais da tripulação.",
-        "preco": 78.45,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
+        "descricao": "Tony Tony Chopper é o médico dos Piratas do Chapéus de Palha, uma rena que adquiriu inteligência e forma humana após comer a Hito Hito no Mi, uma Akuma no Mi do tipo Zoan. Rejeitado tanto por humanos quanto por outros animais em sua infância, Chopper encontrou um lar e um propósito através da medicina, inspirado pelo bondoso Dr. Hiluluk e treinado pela durona Dra. Kureha. Apesar de sua aparência fofa e comportamento ingênuo, Chopper é incrivelmente talentoso e determinado, capaz de realizar curas milagrosas e se transformar em diversas formas durante o combate, graças ao seu domínio das propriedades da fruta e ao uso do Rumble Ball. Seu coração puro, combinado com sua coragem em proteger seus amigos, faz dele um dos membros mais adoráveis e essenciais da tripulação.",
+        "preco": "78.45",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.OaqOyHMZLv8556howKHjMQHaHa&pid=Api&P=0&h=180",
             "https://cdn.archonia.com/images/1-51994203-1-1-original1/one-piece-variable-action-heroes-action-figure-tony-tony-chopper.jpg",
@@ -125,9 +125,9 @@
         "id": 11,
         "nome": "Gol D. Roger",
         "bando": "Piratas do Roger",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Gol D. Roger, conhecido como o Rei dos Piratas, foi o capitão que desafiou o mundo ao navegar até o fim do Grande Line. Com seu poder extraordinário e uma vontade inquebrantável, ele deixou um legado imortal, ao revelar o mistério de Laugh Tale e o One Piece. Roger sabia que sua morte estava próxima e, ao invés de se esconder, ele desafiou o Governo Mundial, transmitindo sua vontade para futuros piratas.",
-        "preco": 99.50,
+        "preco": "99.50",
         "imagens": [
             "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/6/image/1100x/040ec09b1e35df139433887a97daa66f/b/z/bzbp17448-1.jpg"
         ]
@@ -136,9 +136,9 @@
         "id": 12,
         "nome": "Silvers Rayleigh",
         "bando": "Piratas do Roger",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Silvers Rayleigh, o 'Rei das Sombras', foi o vice-capitão dos Piratas do Roger e uma lenda viva. Rayleigh é um mestre do Haki e tem uma grande habilidade em combate, além de ser altamente inteligente e estratégico. Após a dissolução do bando, ele se tornou um homem livre, mas sempre disposto a ajudar aqueles que buscam seus próprios sonhos, como Luffy.",
-        "preco": 95.80,
+        "preco": "95.80",
         "imagens": [
             "https://down-br.img.susercontent.com/file/3aa1389ad50129c5602a737528ed43da"
         ]
@@ -146,10 +146,10 @@
     {
         "id": 13,
         "nome": "Franky",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
-        "descricao": "Franky, cujo verdadeiro nome é Cutty Flam, é o destemido carpinteiro dos Piratas do Chapéu de Palha, famoso por seu estilo extravagante e seu corpo modificado ciberneticamente. Após sofrer um grave acidente em sua juventude, Franky reconstruiu a si mesmo usando sucata, transformando-se em um ciborgue de força sobre-humana. Antes de se juntar à tripulação, liderava a Família Franky em Water 7 e foi o responsável por construir o Thousand Sunny, o navio definitivo dos Chapéus de Palha. Franky é espirituoso, emotivo e um verdadeiro gênio da engenharia, capaz de criar desde armas secretas a melhorias inovadoras para o navio. Apesar de sua aparência excêntrica e comportamento teatral, ele possui um profundo senso de lealdade e uma grande paixão por liberdade e aventura, sendo um pilar fundamental na jornada para o One Piece.",
-        "preco": 91.30,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
+        "descricao": "Franky, cujo verdadeiro nome é Cutty Flam, é o destemido carpinteiro dos Piratas do Chapéus de Palha, famoso por seu estilo extravagante e seu corpo modificado ciberneticamente. Após sofrer um grave acidente em sua juventude, Franky reconstruiu a si mesmo usando sucata, transformando-se em um ciborgue de força sobre-humana. Antes de se juntar à tripulação, liderava a Família Franky em Water 7 e foi o responsável por construir o Thousand Sunny, o navio definitivo dos Chapéus de Palha. Franky é espirituoso, emotivo e um verdadeiro gênio da engenharia, capaz de criar desde armas secretas a melhorias inovadoras para o navio. Apesar de sua aparência excêntrica e comportamento teatral, ele possui um profundo senso de lealdade e uma grande paixão por liberdade e aventura, sendo um pilar fundamental na jornada para o One Piece.",
+        "preco": "91.30",
         "imagens": [
             "https://i5.walmartimages.com/asr/9c751114-13dd-48e4-b21f-3b09b9602712.2b59eae1f39897d178f4c1d5b3e163e5.jpeg",
             "https://m.media-amazon.com/images/I/71lCPj+wcKL._AC_SL1500_.jpg",
@@ -160,9 +160,9 @@
         "id": 14,
         "nome": "Crocus",
         "bando": "Piratas do Roger",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Crocus era o médico dos Piratas do Roger e o responsável por manter a tripulação saudável durante suas longas viagens. Sua habilidade com plantas medicinais e seu vasto conhecimento em medicina foram cruciais para o sucesso do bando. Após a morte de Roger, Crocus tornou-se o guardião do farol em Reverse Mountain, onde aguardava os novos aventureiros que passariam por aquele caminho.",
-        "preco": 78.65,
+        "preco": "78.65",
         "imagens": [
             "https://www.shin-sekai.fr/91033-large_default/one-piece-roger-pirates-figurine-crocus-ichibansho-figure.jpg"
         ]
@@ -171,9 +171,9 @@
         "id": 15,
         "nome": "Shanks",
         "bando": "Piratas do Roger",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Shanks, o capitão dos Piratas do Ruivo e ex-membro dos Piratas do Roger, é uma das figuras mais influentes no mundo de One Piece. Apesar de ser conhecido por seu comportamento descontraído, Shanks tem um poder imenso e uma forte conexão com Luffy, a quem ele inspirou a se tornar pirata. Sua habilidade com a espada e seu Haki poderoso fazem dele um oponente formidável, e sua relação com o equilíbrio do mundo é fundamental.",
-        "preco": 98.10,
+        "preco": "98.10",
         "imagens": [
             "https://media.entertainmentearth.com/assets/images/097814719c494639b0a0d8b621f1cf24xl.jpg"
         ]
@@ -182,9 +182,9 @@
         "id": 16,
         "nome": "Charlotte Linlin (Big Mom)",
         "bando": "Piratas da Big Mom",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Charlotte Linlin, mais conhecida como Big Mom, é a capitã dos Piratas da Big Mom e uma das Quatro Imperadoras. Com uma personalidade excêntrica e implacável, ela busca formar uma utopia onde todos os seus filhos possam viver em paz. Seu poder reside na habilidade de controlar almas, através da Soru Soru no Mi, e em sua força física imensa. Big Mom é temida em todo o mundo por sua brutalidade e sua obsessão por controle.",
-        "preco": 97.30,
+        "preco": "97.30",
         "imagens": [
             "https://m.media-amazon.com/images/I/61kNmo6d8lS.jpg"
         ]
@@ -193,9 +193,9 @@
         "id": 17,
         "nome": "Katakuri",
         "bando": "Piratas da Big Mom",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Charlotte Katakuri é o comandante da 2ª divisão dos Piratas da Big Mom e um dos mais poderosos membros do bando. Ele é usuário da Mochi Mochi no Mi, que lhe permite criar e manipular mochi. Além de seu poder sobre-humano, Katakuri é um mestre do Haki, sendo praticamente imbatível. Com uma lealdade feroz à sua mãe, Katakuri é um guerreiro respeitado e temido.",
-        "preco": 94.20,
+        "preco": "94.20",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.sVhYmMAyFw3WLTFiKqQDugHaHa&pid=Api&P=0&h=180"
         ]
@@ -203,10 +203,10 @@
     {
         "id": 18,
         "nome": "Nico Robin",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
-        "descricao": "Nico Robin é a arqueóloga dos Piratas do Chapéu de Palha, uma mulher enigmática e incrivelmente inteligente, cuja infância foi marcada pela perseguição e solidão. Natural da ilha de Ohara, Robin estudou arqueologia desde muito jovem e se tornou capaz de ler os Poneglyphs, textos antigos que revelam segredos sobre a verdadeira história do mundo — uma habilidade considerada perigosa pelo Governo Mundial. Após ver sua ilha natal ser destruída pela Buster Call, Robin passou anos sendo caçada como criminosa, desenvolvendo uma personalidade desconfiada e reservada. Contudo, ao se juntar a Luffy e seus amigos, ela encontrou pela primeira vez pessoas que verdadeiramente a aceitaram. Usuária da Hana Hana no Mi, Robin pode fazer brotar partes do seu corpo em qualquer superfície, tornando-a uma combatente única e uma aliada estratégica em qualquer situação. Seu conhecimento, elegância e força emocional a tornam uma peça vital na jornada dos Chapéus de Palha rumo ao desconhecido Grand Line.",
-        "preco": 85.60,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
+        "descricao": "Nico Robin é a arqueóloga dos Piratas do Chapéus de Palha, uma mulher enigmática e incrivelmente inteligente, cuja infância foi marcada pela perseguição e solidão. Natural da ilha de Ohara, Robin estudou arqueologia desde muito jovem e se tornou capaz de ler os Poneglyphs, textos antigos que revelam segredos sobre a verdadeira história do mundo — uma habilidade considerada perigosa pelo Governo Mundial. Após ver sua ilha natal ser destruída pela Buster Call, Robin passou anos sendo caçada como criminosa, desenvolvendo uma personalidade desconfiada e reservada. Contudo, ao se juntar a Luffy e seus amigos, ela encontrou pela primeira vez pessoas que verdadeiramente a aceitaram. Usuária da Hana Hana no Mi, Robin pode fazer brotar partes do seu corpo em qualquer superfície, tornando-a uma combatente única e uma aliada estratégica em qualquer situação. Seu conhecimento, elegância e força emocional a tornam uma peça vital na jornada dos Chapéus de Palha rumo ao desconhecido Grand Line.",
+        "preco": "85.60",
         "imagens": [
             "https://tse4.explicit.bing.net/th?id=OIP.4st8we1G-SmxH0kzWluIhwHaHa&pid=Api&P=0&h=180",
             "http://ecx.images-amazon.com/images/I/61I5Aq0p56L.jpg",
@@ -217,9 +217,9 @@
         "id": 19,
         "nome": "Perospero",
         "bando": "Piratas da Big Mom",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Perospero é o comandante da 1ª divisão dos Piratas da Big Mom e o irmão mais velho de muitos dos filhos de Big Mom. Ele consome a Candy Candy no Mi, permitindo-lhe criar e controlar doces com poderosas propriedades. Inteligente e manipulador, Perospero é conhecido por sua astúcia, sendo capaz de contornar situações difíceis com seus doces armados e sua capacidade estratégica.",
-        "preco": 79.50,
+        "preco": "79.50",
         "imagens": [
             "https://i.ebayimg.com/images/g/IHcAAOSwaIJkGZ53/s-l500.jpg"
         ]
@@ -227,10 +227,10 @@
     {
         "id": 20,
         "nome": "Brook",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
-        "descricao": "Brook é o músico dos Piratas do Chapéu de Palha, um esqueleto animado trazido de volta à vida pela Yomi Yomi no Mi, a Akuma no Mi da Ressurreição. Em vida, Brook foi o líder da guarda de batalha de um reino e posteriormente tornou-se membro dos Piratas Rumbar. Após a morte de toda a sua tripulação, ele vagou sozinho por décadas no Triângulo Florian, sustentado apenas pela promessa de reencontrar a baleia Laboon. Brook é uma alma alegre e excêntrica, adorando contar piadas de humor negro sobre sua condição esquelética. Apesar de seu jeito brincalhão, ele é um espadachim habilidoso que utiliza a técnica de 'fencing' combinada com habilidades sobrenaturais, como atravessar paredes e congelar inimigos com sua energia da alma. Como músico, Brook é responsável por animar a tripulação e fortalecer seus laços através da música, sendo uma presença vital tanto nos combates quanto na atmosfera do navio.",
-        "preco": 88.20,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
+        "descricao": "Brook é o músico dos Piratas do Chapéus de Palha, um esqueleto animado trazido de volta à vida pela Yomi Yomi no Mi, a Akuma no Mi da Ressurreição. Em vida, Brook foi o líder da guarda de batalha de um reino e posteriormente tornou-se membro dos Piratas Rumbar. Após a morte de toda a sua tripulação, ele vagou sozinho por décadas no Triângulo Florian, sustentado apenas pela promessa de reencontrar a baleia Laboon. Brook é uma alma alegre e excêntrica, adorando contar piadas de humor negro sobre sua condição esquelética. Apesar de seu jeito brincalhão, ele é um espadachim habilidoso que utiliza a técnica de 'fencing' combinada com habilidades sobrenaturais, como atravessar paredes e congelar inimigos com sua energia da alma. Como músico, Brook é responsável por animar a tripulação e fortalecer seus laços através da música, sendo uma presença vital tanto nos combates quanto na atmosfera do navio.",
+        "preco": "88.20",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.lnKJUELzJAa1j8athBpCXAHaHa&pid=Api&P=0&h=180",
             "https://tse1.mm.bing.net/th?id=OIP.ReGDM4DY4B_MVEaknMuWCwHaGx&pid=Api&P=0&h=180",
@@ -241,9 +241,9 @@
         "id": 21,
         "nome": "Kaido",
         "bando": "Piratas das Feras",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Kaido, o Imperador das Feras, é o capitão dos Piratas das Feras e um dos maiores antagonistas do mundo de One Piece. Conhecido como a 'criatura mais forte do mundo', Kaido tem uma força descomunal e um desejo incontrolável de trazer destruição. Seu poder vem da Uo Uo no Mi, uma Akuma no Mi que lhe concede a habilidade de se transformar em um gigantesco dragão. Kaido almeja uma guerra mundial e busca espalhar o caos pelo mundo.",
-        "preco": 98.80,
+        "preco": "98.80",
         "imagens": [
             "https://m.media-amazon.com/images/I/51e2BrwuBuL._AC_SL1085_.jpg"
         ]
@@ -252,9 +252,9 @@
         "id": 22,
         "nome": "Eustass Kid",
         "bando": "Piratas do Kid",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Eustass 'Captain' Kid é o impiedoso e carismático capitão dos Piratas do Kid, conhecido por seu temperamento explosivo e sua busca implacável pelo título de Rei dos Piratas. Originário do South Blue, Kid rapidamente ganhou notoriedade na Grand Line devido à sua violência extrema contra quem zombava de seus sonhos. Usuário da Jiki Jiki no Mi, uma Akuma no Mi do tipo Paramecia, ele é capaz de manipular campos magnéticos para controlar metais à sua volta, criando armas gigantescas ou se transformando em uma máquina de guerra viva. Ambicioso e orgulhoso, Kid prefere confiar na força bruta para superar seus inimigos, o que o colocou em rota de colisão com figuras poderosas como os Yonkou. Apesar de seu comportamento brutal, ele demonstra lealdade feroz a seus companheiros de tripulação, valorizando a liberdade acima de tudo. Sua presença marcante, combinada com sua habilidade destrutiva, faz dele um dos Supernovas mais temidos de sua geração.",
-        "preco": 95.40,
+        "preco": "95.40",
         "imagens": [
             "https://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/6/image/9df78eab33525d08d6e5fb8d27136e95/b/i/bibas17897-1.jpg",
             "https://i.pinimg.com/originals/47/47/e1/4747e13f86df50ed8ceece83fd51ab9e.jpg"
@@ -263,10 +263,10 @@
     {
         "id": 23,
         "nome": "Monkey D. Luffy (Gear 5)",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
         "descricao": "Monkey D. Luffy, em sua forma Gear 5, representa o ápice da liberdade e da criatividade no universo de One Piece. Após despertar o verdadeiro poder da Hito Hito no Mi, Modelo: Nika — anteriormente conhecida como Gomu Gomu no Mi — Luffy atinge uma transformação que transcende as limitações comuns das Akuma no Mi. Em Gear 5, seu corpo se torna absurdamente maleável, com habilidades que desafiam as leis da física, permitindo-lhe alterar seu ambiente e assumir formas hilárias ou aterrorizantes conforme sua vontade. Sua aparência muda, adquirindo cabelos brancos, sobrancelhas espiraladas e uma aura quase divina que emana pura alegria e energia. No campo de batalha, Luffy combina humor imprevisível com golpes de potência colossal, representando não apenas força bruta, mas a personificação do espírito livre e indomável que Nika simboliza. Gear 5 é a materialização da essência de Luffy: a risada em meio ao perigo, a esperança em meio ao desespero e a promessa inquebrável de que ele jamais será derrotado enquanto puder sorrir.",
-        "preco": 99.80,
+        "preco": "99.80",
         "imagens": [
             "https://media.entertainmentearth.com/assets/images/c915d78d0fc14c03b8946ce908de3023xl.jpg",
             "https://down-th.img.susercontent.com/file/sg-11134201-7qvd5-lkb0cw6k9946dc",
@@ -277,9 +277,9 @@
         "id": 24,
         "nome": "King",
         "bando": "Piratas das Feras",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "King é o comandante da 1ª divisão dos Piratas das Feras, conhecido como 'O Rei'. Ele possui a habilidade de se transformar em um pteranodonte devido à sua Akuma no Mi, a Ryu Ryu no Mi, Modelo: Pteranodon. King é um dos guerreiros mais letais e um defensor intransigente de Kaido, sendo altamente estratégico e quase invulnerável durante suas batalhas.",
-        "preco": 96.70,
+        "preco": "96.70",
         "imagens": [
             "https://cdn.kyou.id/items/238218-ichiban-kuji-figure-king-one-piece-ryouyoku-kessen-b-prize-15cm.jpg"
         ]
@@ -288,9 +288,9 @@
         "id": 25,
         "nome": "X Drake",
         "bando": "Piratas das Feras",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "X Drake é um ex-comandante da marinha que se tornou aliado de Kaido, pertencendo aos Piratas das Feras. Ele consome a Ryu Ryu no Mi, Modelo: Allosaurus, e tem a habilidade de se transformar em um dinossauro de combate. Drake é uma figura cheia de dilemas internos, leal a Kaido mas com uma forte conexão com seu passado e valores morais.",
-        "preco": 85.40,
+        "preco": "85.40",
         "imagens": [
             "https://www.raccoongames.es/img/productos/figuarts-zero-one-piece-x-drake-16-5cm/61125NNmLzL._SL1500_.jpg"
         ]
@@ -299,9 +299,9 @@
         "id": 26,
         "nome": "Sengoku",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Sengoku, o 'Buda', é o antigo almirante da Marinha e um dos homens mais respeitados e poderosos do mundo. Com sua habilidade de se transformar em um gigantesco Buda de ouro, ele detém uma força destrutiva imensa. Sengoku foi o líder da Marinha durante a guerra contra os Piratas de Barba Branca e desempenhou um papel central na luta contra os maiores piratas do mundo. Seu compromisso com a justiça é inabalável, mas sua moralidade é muitas vezes questionada pelas ações de sua instituição.",
-        "preco": 97.60,
+        "preco": "97.60",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.5WkedA51HLAA3fqYb0ERUQHaHa&pid=Api&P=0&h=180"
         ]
@@ -310,9 +310,9 @@
         "id": 27,
         "nome": "Garp",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Monkey D. Garp, conhecido como 'Garp, o Herói', é um dos oficiais mais lendários da Marinha. Mesmo sem usar uma Akuma no Mi, Garp possui uma força sobre-humana, capaz de derrotar até os piratas mais temidos. Sua ligação com a família D. e seu amor por seus netos, Luffy e Ace, o tornam uma figura complicada, dividida entre sua lealdade à Marinha e seu carinho pela família. Garp foi crucial na captura de Gol D. Roger.",
-        "preco": 92.40,
+        "preco": "92.40",
         "imagens": [
             "https://onepiecemerchandise.com/wp-content/uploads/2021/09/14512-b5939d.jpeg"
         ]
@@ -321,9 +321,9 @@
         "id": 28,
         "nome": "Aokiji (Kuzan)",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Aokiji, ou Kuzan, é um ex-almirante da Marinha e um dos piratas mais poderosos do mundo. Ele consumiu a Hie Hie no Mi, uma Akuma no Mi do tipo Logia que lhe permite controlar o gelo. Aokiji é calmo e ponderado, sempre tomando decisões racionais, mas suas crenças sobre o que constitui a verdadeira justiça o levaram a se afastar da Marinha após uma disputa com Akainu.",
-        "preco": 89.85,
+        "preco": "89.85",
         "imagens": [
             "https://images-na.ssl-images-amazon.com/images/I/51oonGyZqyL.jpg"
         ]
@@ -332,9 +332,9 @@
         "id": 29,
         "nome": "Akainu (Sakazuki)",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Akainu, também conhecido como Sakazuki, é o atual almirante da Marinha, sendo uma das figuras mais temidas e implacáveis do mundo. Ele consome a Magu Magu no Mi, que lhe permite controlar o magma e causar destruição massiva. Akainu é um defensor da 'justiça absoluta', sendo intransigente em suas ações e decisões, mesmo que isso signifique ferir ou matar inocentes. Sua luta com Aokiji por causa do cargo de almirante marca uma das batalhas mais sangrentas da história da Marinha.",
-        "preco": 94.90,
+        "preco": "94.90",
         "imagens": [
             "https://www.japanzon.com/97047-product_hd/figuarts-zero-one-piece-akainu-sakazuki-figure.jpg"
         ]
@@ -343,9 +343,9 @@
         "id": 30,
         "nome": "Trafalgar D. Water Law",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Trafalgar D. Water Law, o capitão dos Piratas Heart, é um ex-membro da Marinha e um dos piratas mais inteligentes e astutos. Ele consome a Ope Ope no Mi, uma Akuma no Mi que lhe dá a habilidade de criar uma 'sala' onde ele pode controlar qualquer coisa dentro dela. Embora não seja um membro ativo da Marinha, seu passado e seu vínculo com o Governo Mundial o conectam a eles de maneira significativa, e suas ações muitas vezes influenciam diretamente as batalhas entre piratas e a Marinha.",
-        "preco": 91.10,
+        "preco": "91.10",
         "imagens": [
             "https://m.media-amazon.com/images/I/61Jr6nUqxEL.jpg"
         ]
@@ -354,9 +354,9 @@
         "id": 31,
         "nome": "Marshall D. Teach (Barba Negra)",
         "bando": "Bando do Barba Negra",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Marshall D. Teach, mais conhecido como Barba Negra, é o capitão dos Piratas do Barba Negra, um dos piratas mais poderosos e traiçoeiros do mundo. Ele é o único conhecido a possuir duas Akumas no Mi: a Yami Yami no Mi, que lhe permite controlar as trevas, e a Gura Gura no Mi, que pode causar terremotos devastadores. Barba Negra é ambicioso, egoísta e implacável, sempre em busca de mais poder para alcançar seu objetivo de se tornar o maior pirata do mundo.",
-        "preco": 99.00,
+        "preco": "99.00",
         "imagens": [
             "https://tse2.mm.bing.net/th?id=OIP.8fCd9CGpgUA19Hd315s-GwHaEK&pid=Api&P=0&h=180"
         ]
@@ -365,9 +365,9 @@
         "id": 32,
         "nome": "Shiryuu de the Rain",
         "bando": "Bando do Barba Negra",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Shiryuu é o ex-prisioneiro de Impel Down e agora um dos comandantes dos Piratas do Barba Negra. Conhecido por sua crueldade, Shiryuu é um mestre espadachim e um dos guerreiros mais letais da tripulação. Ele também consome a Sui Sui no Mi, que lhe permite se tornar uma pessoa invisível à chuva. Shiryuu é uma figura sombria, implacável em sua busca por violência e destruição.",
-        "preco": 90.75,
+        "preco": "90.75",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.JuE-pjo1fVdxR7qqrrKOtQHaHa&pid=Api&P=0&h=180"
         ]
@@ -375,10 +375,10 @@
     {
         "id": 33,
         "nome": "Monkey D. Luffy (Gear 4)",
-        "bando": "Piratas do Chapéu de Palha",
-        "avaliacao": 0.0,
+        "bando": "Piratas do Chapéus de Palha",
+        "avaliacao": "0.0",
         "descricao": "Monkey D. Luffy, em sua forma Gear 4, atinge uma transformação impressionante que mistura sua habilidade com a Gomu Gomu no Mi (Hito Hito no Mi, Modelo: Nika) com uma força bruta incomparável. No Gear 4, Luffy infla seus músculos com ar comprimido, adquirindo um tamanho monstruoso e uma resistência física extraordinária. Sua velocidade também aumenta drasticamente, permitindo-lhe desferir ataques rápidos e devastadores como o Kong Gun, que pode destruir montanhas. Essa forma é notoriamente conhecida por sua grande explosão de poder e resistência, tornando Luffy capaz de enfrentar inimigos que antes pareciam imbatíveis, como Doflamingo e Kaido. A aparência de Luffy muda consideravelmente, com seu corpo se tornando mais robusto e com veias salientes devido ao aumento de sua musculatura. Além disso, ele ganha a habilidade de usar Haki com ainda mais eficácia, combinando seu poder físico com uma consciência tática aprimorada. O Gear 4 é um reflexo da crescente força de Luffy em sua jornada para se tornar o Rei dos Piratas.",
-        "preco": 98.50,
+        "preco": "98.50",
         "imagens": [
             "https://cf.shopee.com.br/file/1e17f84268c75880a4289b8af09bc2b2"
         ]
@@ -387,9 +387,9 @@
         "id": 34,
         "nome": "Donquixote Doflamingo",
         "bando": "Piratas Donquixote",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Donquixote Doflamingo é um dos vilões mais perigosos e intrigantes do universo de One Piece. Membro da nobre família Donquixote, Doflamingo foi rejeitado e expulso de sua posição, o que o levou a criar seu próprio império criminoso. Ele é o capitão dos Piratas Donquixote e, ao mesmo tempo, um dos mais poderosos Shichibukai, utilizando sua Akuma no Mi, a 'Ito Ito no Mi' (Fruta do String), para manipular fios com uma precisão mortal, capazes de cortar qualquer coisa, controlar pessoas e até manipular seu próprio corpo. Sua ambição de controlar o mundo inteiro e destruir as instituições existentes é o que o torna uma ameaça significativa. Ele é incrivelmente manipulador, frio e calculista, demonstrando uma habilidade imensa em influenciar eventos e pessoas a seu favor. Doflamingo possui uma personalidade carismática, mas cruel, e seu lema é a ideia de que as regras do mundo são destinadas a ser quebradas. Sua habilidade em combate é impecável, não apenas por sua força bruta, mas pela astúcia e controle sobre seus fios, que fazem dele um dos inimigos mais temidos por Luffy e seus companheiros.",
-        "preco": 97.20,
+        "preco": "97.20",
         "imagens": [
             "https://tse4.mm.bing.net/th?id=OIP.KrkUiD84sxVMGSjYOn5k0AHaHa&pid=Api&P=0&h=180"
         ]
@@ -398,9 +398,9 @@
         "id": 35,
         "nome": "Kizaru (Borsalino)",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Kizaru, cujo nome real é Borsalino, é um dos almirantes mais poderosos da Marinha, conhecido por sua postura relaxada e estilo despreocupado, que contrastam com sua incrível força e habilidade. Ele é um dos três almirantes que compõem o poder militar da Marinha e possui a habilidade da Akuma no Mi, a 'Pika Pika no Mi' (Fruta da Luz), que lhe concede o poder de se mover na velocidade da luz, além de criar e controlar raios de luz com extrema precisão e poder destrutivo. Sua habilidade permite que ele ataque a longa distância com seus feixes de luz, além de ser capaz de se teletransportar instantaneamente para qualquer lugar, tornando-o quase impossível de capturar. A personalidade de Kizaru é marcada por uma atitude descontraída e sarcástica, sempre falando com um tom irônico e mantendo-se impassível, mesmo diante das situações mais tensas. Apesar de sua aparência tranquila, ele é um combatente formidável, capaz de derrotar inimigos poderosos com facilidade. Kizaru representa a eficiência implacável da Marinha, sempre cumprindo suas ordens com precisão, independentemente da moralidade envolvida.",
-        "preco": 94.30,
+        "preco": "94.30",
         "imagens": [
             "https://m.media-amazon.com/images/I/81Ip+f8Fl9L._AC_SL1500_.jpg"
         ]
@@ -409,9 +409,9 @@
         "id": 36,
         "nome": "Dr. Vegapunk",
         "bando": "Governo Mundial",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Dr. Vegapunk é um dos cientistas mais brilhantes e influentes do mundo de One Piece, conhecido por sua vasta genialidade em diversas áreas da ciência. Ele é o chefe do laboratório de pesquisa do Governo Mundial e responsável por muitas das inovações tecnológicas mais avançadas, incluindo a criação dos Pacifistas e o estudo das Akuma no Mi. Seu trabalho com as frutas do diabo é um dos marcos de sua carreira, e suas pesquisas na engenharia genética e na biotecnologia são fundamentais para o poder do Governo Mundial. Embora sua lealdade ao Governo seja inquestionável, Vegapunk é um homem que busca entender os limites do conhecimento humano e como eles podem ser usados para melhorar a sociedade. Sua aparência é peculiar, com múltiplas cabeças e um comportamento excêntrico. Mesmo sendo uma figura tão enigmática, Vegapunk demonstra uma forte ética científica e um desejo de compreender o mundo de uma forma que poucos outros personagens conseguem. Seu conhecimento e invenções são fontes de grande poder, mas também de grande responsabilidade.",
-        "preco": 96.80,
+        "preco": "96.80",
         "imagens": [
             "https://www.kamehashop.fr/36236-large_default/one-piece-figurine-dr-vegapunk-lilith-the-grandline-dxf.jpg"
         ]
@@ -420,9 +420,9 @@
         "id": 37,
         "nome": "Sabo",
         "bando": "Revolucionários",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Sabo, o irmão jurado de Luffy, é um dos principais comandantes do exército revolucionário. Ele consome a Mera Mera no Mi, que lhe concede o poder de controlar o fogo. Sabo é um jovem carismático e determinado a lutar contra a injustiça no mundo, tendo sido resgatado e treinado por Dragon após perder sua família. Sua lealdade ao movimento revolucionário e ao seu irmão Luffy o torna uma figura chave na luta contra o Governo Mundial.",
-        "preco": 92.60,
+        "preco": "92.60",
         "imagens": [
             "https://tse2.mm.bing.net/th?id=OIP.A503J6POBfDxAtdS2z-HTAHaJX&pid=Api&P=0&h=180"
         ]
@@ -431,9 +431,9 @@
         "id": 38,
         "nome": "Ivankov",
         "bando": "Revolucionários",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Emporio Ivankov, também conhecido como 'Ivan-chan', é o líder do reino de Kamabakka e um dos membros mais importantes dos Revolucionários. Ivankov consome a Horu Horu no Mi, que lhe permite alterar o corpo humano de várias maneiras, incluindo mudanças de gênero. Ivankov tem uma personalidade excêntrica, mas é muito respeitado entre os revolucionários por seu grande poder e sua habilidade de influenciar as pessoas ao seu redor.",
-        "preco": 88.90,
+        "preco": "88.90",
         "imagens": [
             "https://i.ebayimg.com/images/g/PtYAAOSwiUlk3cMX/s-l1600.jpg"
         ]
@@ -442,9 +442,9 @@
         "id": 39,
         "nome": "Koala",
         "bando": "Revolucionários",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Koala é uma das revolucionárias mais competentes e habilidosas, especialista em combate corpo a corpo. Ela foi salva de uma vida de sofrimento pelos Piratas do Dragon e agora luta ao lado de seus companheiros para derrubar o Governo Mundial. Embora seja jovem, Koala tem um forte senso de justiça e é leal ao movimento revolucionário, ajudando a formar a resistência contra a opressão.",
-        "preco": 82.75,
+        "preco": "82.75",
         "imagens": [
             "https://tse2.mm.bing.net/th?id=OIP.uj0ew5t08EFh8h-9Gs5muwAAAA&pid=Api&P=0&h=180"
         ]
@@ -453,9 +453,9 @@
         "id": 40,
         "nome": "Bartholomew Kuma",
         "bando": "Revolucionários",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Bartholomew Kuma é um dos membros mais poderosos dos Revolucionários e uma das figuras mais enigmáticas do mundo de One Piece. Originalmente um dos Shichibukai, ele foi transformado em um cyborg pelo Governo Mundial. Kuma consome a Nikyu Nikyu no Mi, o que lhe dá a habilidade de repelir qualquer coisa, incluindo dor e até mesmo sentimentos. Apesar de sua transformação, ele ainda mantém sua lealdade ao movimento revolucionário e é um grande aliado de Dragon.",
-        "preco": 95.80,
+        "preco": "95.80",
         "imagens": [
             "https://i.pinimg.com/originals/99/4f/01/994f016a70dff3c0a4dec8cd4fa93131.jpg"
         ]
@@ -464,9 +464,9 @@
         "id": 41,
         "nome": "Dracule Mihawk",
         "bando": "Governo Mundial",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Dracule Mihawk, conhecido como o 'Maior Espadachim do Mundo', é um dos Shichibukai e uma figura lendária no mundo de One Piece. Mihawk é um mestre espadachim com habilidades incomparáveis, e sua espada, o Kokuto Yoru, é considerada uma das mais poderosas do mundo. Ele é uma figura enigmática, preferindo ficar à margem das grandes batalhas, mas sua presença e habilidades são temidas por todos, incluindo os piratas mais poderosos.",
-        "preco": 97.50,
+        "preco": "97.50",
         "imagens": [
             "http://www.poopoopanda.com/assets/images/MH82042-01.jpg"
         ]
@@ -475,9 +475,9 @@
         "id": 42,
         "nome": "Boa Hancock",
         "bando": "Governo Mundial",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Boa Hancock é a imperadora dos Piratas Kuja e uma das figuras mais poderosas e temidas do mundo. Ela é também uma das Shichibukai e possui a Mero Mero no Mi, que lhe permite transformar em pedra qualquer pessoa que sinta atração por ela. Apesar de sua beleza e poder, Hancock é extremamente orgulhosa e inicialmente hostil com os outros, especialmente com homens. Sua lealdade ao Governo Mundial é um reflexo de seu desejo de proteger sua ilha natal, Amazon Lily.",
-        "preco": 93.10,
+        "preco": "93.10",
         "imagens": [
             "https://media2.nin-nin-game.com/436844/variable-action-heroes-one-piece-boa-hancock-ver15-megahouse-.jpg"
         ]
@@ -486,9 +486,9 @@
         "id": 43,
         "nome": "Crocodile",
         "bando": "Governo Mundial",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Crocodile é o ex-líder dos Baroque Works e um dos Shichibukai. Ele consome a Suna Suna no Mi, uma Akuma no Mi que lhe permite controlar a areia. Crocodile é um homem frio e calculista, sempre traçando planos para alcançar seus objetivos de dominação. Após ser derrotado por Luffy, ele se tornou um personagem mais complexo, com seus próprios interesses e motivos, mas ainda mantendo uma relação com o Governo Mundial.",
-        "preco": 89.80,
+        "preco": "89.80",
         "imagens": [
             "https://tse1.mm.bing.net/th?id=OIP.IAaaRILGeKbIwokGhJlagAAAAA&pid=Api&P=0&h=180"
         ]
@@ -497,9 +497,9 @@
         "id": 44,
         "nome": "Jinbe",
         "bando": "Governo Mundial",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Jinbe é um dos homens-peixe mais poderosos e respeitados do mundo, conhecido por sua habilidade com o Karaté dos Homens-Peixe e sua grande força física. Inicialmente um Shichibukai, Jinbe tem uma história marcada pela lealdade e sacrifício. Ele foi um aliado dos Piratas de Barba Branca e, mais tarde, se juntou à tripulação de Luffy. Jinbe é um personagem honrado, sempre em busca de promover a paz entre os humanos e os homens-peixe.",
-        "preco": 92.30,
+        "preco": "92.30",
         "imagens": [
             "https://cf.shopee.com.br/file/br-11134201-22120-98bjwywqdjlv46"
         ]
@@ -508,9 +508,9 @@
         "id": 45,
         "nome": "Zeff",
         "bando": "Piratas do Baratie",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Zeff, também conhecido como 'Zeff, o Velho', é o chefe do Baratie, o restaurante flutuante famoso no mundo de One Piece. Sua história de vida é marcada por desafios e tragédias, sendo um dos personagens mais respeitados por sua força e sabedoria. Ele foi o capitão dos Piratas do Baratie antes de ser forçado a mudar de vida após um naufrágio. Durante essa tempestade, ele foi forçado a cortar uma de suas próprias pernas para salvar seu subordinado, Sanji, e foi isso que o deixou com a perna prostética que é uma das suas marcas registradas. Embora pareça ser apenas um cozinheiro idoso e ranzinza, Zef é um mestre na culinária e também um combatente formidável, conhecido por sua habilidade com facas e por ser extremamente forte. Ele é uma figura paterna para Sanji, tendo sido uma grande influência em sua vida, e é responsável por ensiná-lo as artes culinárias e a filosofia por trás do respeito aos alimentos e à vida. Sua personalidade é rígida, mas com uma grande dose de carinho e lealdade para com aqueles que considera família.",
-        "preco": 72.40,
+        "preco": "72.40",
         "imagens": [
             "https://down-th.img.susercontent.com/file/sg-11134201-7rcd1-lsu9kbikh55y38"
         ]
@@ -519,9 +519,9 @@
         "id": 46,
         "nome": "Rob Lucci",
         "bando": "CP9",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Rob Lucci é o agente mais poderoso da CP9, conhecido por sua brutalidade e imensa força. Um mestre do Rokushiki (seis estilos de combate), Lucci é frio, calculista e possui uma filosofia que glorifica a violência em nome da justiça. Ele é usuário da Zoan Neko Neko no Mi, modelo leopardo, que lhe confere força física extrema e agilidade animalesca. Como principal antagonista da saga Enies Lobby, sua luta contra Luffy é lembrada como uma das mais épicas de One Piece.",
-        "preco": 96.20,
+        "preco": "96.20",
         "imagens": [
             "https://cdn.archonia.com/images/1-57217809-1-1-original1/one-piece-variable-action-heroes-action-figure-rob-lucci.jpg"
         ]
@@ -530,9 +530,9 @@
         "id": 47,
         "nome": "Kaku",
         "bando": "CP9",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Kaku é um dos agentes mais carismáticos da CP9, reconhecido por sua habilidade extraordinária com espadas e sua agilidade incomum. Depois de consumir a Ushi Ushi no Mi, modelo girafa, Kaku combina sua técnica de espadachim com seus novos poderes de forma criativa e letal. Ele é estrategista e mantém uma atitude educada e alegre, mesmo em confrontos mortais. Seu combate contra Zoro é uma das batalhas mais memoráveis de Enies Lobby.",
-        "preco": 86.90,
+        "preco": "86.90",
         "imagens": [
             "https://imaginaire.com/en/images/ONE-PIECE-KAKU-FIGURE-8-PORTRAIT-OF-PIRATES-LIMITED-EDITION__4535123714559-Z.JPG"
         ]
@@ -541,9 +541,9 @@
         "id": 48,
         "nome": "Smoker",
         "bando": "Marinha",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Smoker é um dos oficiais mais emblemáticos da Marinha, conhecido por sua dedicação implacável em caçar piratas e garantir a justiça. Com sua personalidade severa e postura rígida, ele busca constantemente destruir qualquer forma de crime, e se torna um grande adversário para Luffy e sua tripulação. Smoker é possuidor da Akuma no Mi, a 'Moku Moku no Mi' (Fruta da Fumaça), que lhe permite transformar seu corpo em fumaça, dando-lhe a capacidade de atravessar objetos e se mover com grande velocidade, além de controlar a fumaça de maneira letal, criando ataques que podem sufocar seus inimigos. Sua habilidade o torna um dos perseguidores mais difíceis de escapar, já que ele é praticamente intangível e imune a ataques físicos convencionais. Além de suas habilidades, Smoker é um comandante respeitado dentro da Marinha, possuindo um forte senso de moralidade e uma lealdade inabalável à justiça. No entanto, ele também demonstra um certo grau de flexibilidade, especialmente quando se trata de lidar com figuras como Luffy, com quem, apesar de ser um inimigo, desenvolve uma relação complexa, cheia de respeito mútuo e rivalidade.",
-        "preco": 85.60,
+        "preco": "85.60",
         "imagens": [
             "https://i.pinimg.com/736x/cf/3f/f0/cf3ff02da35c241c963ab6dad2ffc91e--smoker-one-piece-smokers.jpg"
         ]
@@ -552,9 +552,9 @@
         "id": 49,
         "nome": "Inuarashi",
         "bando": "Minks (Clã Inuarashi)",
-        "avaliacao": 0.0,
-        "descricao": "Inuarashi é o líder do Clã Inuarashi, um dos dois principais clãs Mink que habitam a ilha de Zou. Ele é um enorme e forte guerreiro, com a aparência de um lobo, e é conhecido por sua bravura, lealdade e habilidades impressionantes em combate. Inuarashi é um dos dois governantes de Zou, junto com Nekomamushi, e ambos compartilham uma amizade de longa data que é marcada por uma rivalidade amigável, especialmente sobre a liderança de Zou. Inuarashi é um combatente formidável, possuindo a habilidade de se transformar em uma versão ainda mais poderosa de si mesmo quando ativando o 'Sulong', o poder de transformação dos Mink durante a lua cheia, o que lhe confere habilidades físicas excepcionais. Sua liderança é marcada pela coragem e sabedoria, e ele é profundamente leal aos seus amigos e aliados. Durante a guerra contra os piratas de Kaido, Inuarashi mostrou sua força em batalhas ferozes e também seu espírito inquebrantável em proteger os seus e a ilha de Zou. Sua relação com os Piratas do Chapéu de Palha é de grande respeito, e ele os considera aliados essenciais na luta contra seus inimigos.",
-        "preco": 91.50,
+        "avaliacao": "0.0",
+        "descricao": "Inuarashi é o líder do Clã Inuarashi, um dos dois principais clãs Mink que habitam a ilha de Zou. Ele é um enorme e forte guerreiro, com a aparência de um lobo, e é conhecido por sua bravura, lealdade e habilidades impressionantes em combate. Inuarashi é um dos dois governantes de Zou, junto com Nekomamushi, e ambos compartilham uma amizade de longa data que é marcada por uma rivalidade amigável, especialmente sobre a liderança de Zou. Inuarashi é um combatente formidável, possuindo a habilidade de se transformar em uma versão ainda mais poderosa de si mesmo quando ativando o 'Sulong', o poder de transformação dos Mink durante a lua cheia, o que lhe confere habilidades físicas excepcionais. Sua liderança é marcada pela coragem e sabedoria, e ele é profundamente leal aos seus amigos e aliados. Durante a guerra contra os piratas de Kaido, Inuarashi mostrou sua força em batalhas ferozes e também seu espírito inquebrantável em proteger os seus e a ilha de Zou. Sua relação com os Piratas do Chapéus de Palha é de grande respeito, e ele os considera aliados essenciais na luta contra seus inimigos.",
+        "preco": "91.50",
         "imagens": [
             "https://images.bigbadtoystore.com/images/p/full/2021/01/021dc294-3c95-4d0a-9087-500fb3310c77.jpg"
         ]
@@ -563,9 +563,9 @@
         "id": 50,
         "nome": "Kalifa",
         "bando": "CP9",
-        "avaliacao": 0.0,
+        "avaliacao": "0.0",
         "descricao": "Kalifa é a única mulher na formação principal da CP9, e combina astúcia, charme e força em suas operações. Após consumir a Awa Awa no Mi, ela é capaz de gerar bolhas que removem a força física dos adversários, tornando-a uma oponente formidável. Kalifa é fria, calculista e extremamente confiante em suas habilidades. Apesar de sua aparência elegante e comportamento refinado, ela é impiedosa quando em missão, exemplificando a eficiência brutal da CP9.",
-        "preco": 82.30,
+        "preco": "82.30",
         "imagens": [
             "https://www.anime-star.com/u_file/1910/photo/ad676115b2.jpg"
         ]

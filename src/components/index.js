@@ -10,6 +10,7 @@ import ProductsOptions from "./layouts/products/productsOptions.vue";
 import ProductImages from "./layouts/products/ProductImages.vue";
 import ProductHeader from "./layouts/header/ProductHeader.vue";
 import MarketingCard from "./cards/MarketingCard.vue";
+import ProductCardContainer from "./containers/ProductCardContainer.vue";
 
 export {
   GlobalButton,
@@ -24,4 +25,5 @@ export {
   ProductImages,
   ProductHeader,
   MarketingCard,
+  ProductCardContainer,
 }
