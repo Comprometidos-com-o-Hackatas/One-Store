@@ -1,8 +1,15 @@
 <script setup>
 import { ref } from 'vue';
 import { HeaderMenu, SearchBar } from '@/components/index';
+import { useCharactersStore } from '@/stores/characters';
+const charactersStore = useCharactersStore()
 const open = ref(false)
 const search = ref(false)
+const searchForCharacter = (search) => {
+    console.log(charactersStore.characters)
+    console.log(search)
+    charactersStore.GetCharacterByName(search)
+}
 </script>
 <template>
 <header class="w-full h-16 p-3 flex justify-between relative items-center">
@@ -13,7 +20,7 @@ const search = ref(false)
          <p>ONE STORE</p>
     </div>
 
-    <SearchBar @open-search="search = !search" :search="search" />
+    <SearchBar @search="searchForCharacter" @open-search="search = !search" :search="search" />
    
 </header>
 </template>
