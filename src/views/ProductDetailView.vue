@@ -4,7 +4,7 @@
 </script>
 <template>
     <DetailContainer>
-        <div class="w-4/12 flex-col flex gap-10">
+        <div class="w-10/12 flex-col flex gap-5">
             <RatingDetails :title="infoProducts.title" :autor="infoProducts.autor" :rate="infoProducts.rate"/>
             <DescritptionDetails :description="infoProducts.description"/>
         </div>
