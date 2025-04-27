@@ -7,6 +7,7 @@ import DescritptionDetails from "./cards/details/DescritptionDetails.vue";
 import RatingDetails from "./cards/details/RatingDetails.vue";
 import DetailContainer from "./containers/DetailContainer.vue";
 import ProductsOptions from "./layouts/products/productsOptions.vue";
+import ProductHeader from "./layouts/header/ProductHeader.vue";
 
 export {
   GlobalButton,
@@ -17,5 +18,6 @@ export {
   DescritptionDetails, 
   RatingDetails,
   DetailContainer,
-  ProductsOptions
+  ProductsOptions,
+  ProductHeader
 }
