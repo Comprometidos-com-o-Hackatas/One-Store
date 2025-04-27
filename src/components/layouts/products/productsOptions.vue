@@ -29,7 +29,7 @@ onMounted(() => {
         768: { slidesPerView: 4 },
         1024: { slidesPerView: 5 }
       }"
-      class="w-[90%] h-13 my-4"
+      class="w-[80%] h-11 my-4"
     >
       <swiper-slide
         v-for="crewOption in crews"
@@ -39,7 +39,7 @@ onMounted(() => {
       >
         <div
           :class="[
-            'flex items-center justify-center w-full h-full font-bold transition-colors duration-300',
+            'flex items-center justify-center w-full h-full font-bold text-sm text-center transition-colors duration-300',
             crewOption.id == crew.id ? 'bg-amber-400 text-white' : 'bg-white text-gray-300'
           ]"
         >
