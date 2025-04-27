@@ -7,6 +7,7 @@ import DescritptionDetails from "./cards/details/DescritptionDetails.vue";
 import RatingDetails from "./cards/details/RatingDetails.vue";
 import DetailContainer from "./containers/DetailContainer.vue";
 import ProductsOptions from "./layouts/products/productsOptions.vue";
+import ProductImages from "./layouts/products/ProductImages.vue";
 import ProductHeader from "./layouts/header/ProductHeader.vue";
 import MarketingCard from "./cards/MarketingCard.vue";
 
@@ -20,6 +21,7 @@ export {
   RatingDetails,
   DetailContainer,
   ProductsOptions,
+  ProductImages,
   ProductHeader,
   MarketingCard,
 }
