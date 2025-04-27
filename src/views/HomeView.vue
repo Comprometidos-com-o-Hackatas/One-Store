@@ -1,6 +1,13 @@
 <script setup>
 import { ProductCard, Header, ProductsOptions, MarketingCard } from '@/components';
 import router from '@/router';
+import { useCharactersStore } from '@/stores/characters';
+import { onMounted } from 'vue';
+const charctersStore = useCharactersStore()
+
+onMounted(()=> {
+  charctersStore.GetCharacter()
+})
 </script>
 
 <template>

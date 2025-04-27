@@ -1,4 +1,6 @@
 <script setup>
+import { ref } from 'vue';
+
 const props = defineProps({
     search: {
         type: Boolean,
@@ -7,8 +9,10 @@ const props = defineProps({
 })
 
 const emits = defineEmits([
-    'openSearch'
+    'openSearch', 'search'
 ])
+
+const search = ref('')
 </script>
 
 <template>
@@ -17,7 +21,7 @@ const emits = defineEmits([
         <span class="mdi mdi-magnify text-3xl"></span>
     </div>
     <div :class=" props.search ? 'search' : 'search-closed'">
-        <input :class="props.search ? 'w-[85%] p-2 outline-0 text-gray-600 h-full text-[12px] ' : 'close-text'" type="text" placeholder="search here...">
+        <input v-model="search" @keyup="emits('search', search)" :class="props.search ? 'w-[85%] p-2 outline-0 text-gray-600 h-full text-[12px] ' : 'close-text'" type="text" placeholder="search here...">
     </div>
 </div>
 </template>
