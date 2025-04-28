@@ -29,12 +29,12 @@ const emits = defineEmits([
 ])
 </script>
 <template>
- <span class=" flex flex-col w-32 h-56 m-5 hover:brightness-[95%] rounded-[11px] hover:bg-[rgba(0,0,0,0.05)] hover:scale-[103%] duration-200 cursor-default z-40 ">
+ <span class="mb-10 flex flex-col w-32 h-56 m-5 hover:brightness-[95%] rounded-[11px] hover:bg-[rgba(0,0,0,0.05)] hover:scale-[103%] duration-200 cursor-default z-40 ">
     <div class="h-9/12 cursor-pointer relative flex justify-center">
     <div class="border-3 relative w-full h-full border-[#fb7d54] border-custom">
       
         <div class="flex h-full w-full items-end">
-            <img class=" h-40 z-20 w-full bottom-0 object-contain absolute" :src="img" alt="">
+            <img class=" h-40 z-20 w-full bottom-0 object-contain absolute" :src="img[0]" alt="">
                    
             <div class="w-full z-30 bg-[#fb7d54] flex justify-center items-center p-2 border-description">
                 <p class="text-white font-extralight text-sm text-center">{{ props.name }}</p>

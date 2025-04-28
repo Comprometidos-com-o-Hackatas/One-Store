@@ -6,19 +6,20 @@ export const useCrewStore = defineStore('crew', () => {
   const state = ref({
     crews: [],
     possibleCrews: [
-      { id: 1, name: 'Chapéus de palha' },
-      { id: 2, name: 'Piratas do Barba Branca' },
-      { id: 3, name: 'Piratas do Roger' },
-      { id: 4, name: 'Piratas da Big Mom' },
-      { id: 5, name: 'Piratas das Feras' },
-      { id: 6, name: 'Piratas do Kid' },
-      { id: 7, name: 'Marinha' },
-      { id: 8, name: 'Bando do Barba Negra' },
-      { id: 9, name: 'Donquixote' },
-      { id: 10, name: 'Revolucionários' },
-      { id: 11, name: 'Governo Mundial' },
-      { id: 12, name: 'Baratie'},
-      { id: 13, name: 'CP9' },
+      {id: 1, name: 'Geral'},
+      { id: 2, name: 'Chapéus de palha' },
+      { id: 3, name: 'Piratas do Barba Branca' },
+      { id: 4, name: 'Piratas do Roger' },
+      { id: 5, name: 'Piratas da Big Mom' },
+      { id: 6, name: 'Piratas das Feras' },
+      { id: 7, name: 'Piratas do Kid' },
+      { id: 8, name: 'Marinha' },
+      { id: 9, name: 'Bando do Barba Negra' },
+      { id: 10, name: 'Donquixote' },
+      { id: 11, name: 'Revolucionários' },
+      { id: 12, name: 'Governo Mundial' },
+      { id: 13, name: 'Baratie'},
+      { id: 14, name: 'CP9' },
     ],
     currentCrew: null,
   })
@@ -31,12 +32,17 @@ export const useCrewStore = defineStore('crew', () => {
     await characterStore.GetCharacter()
     console.log(characterStore.characters)
     const search = state.value.currentCrew.name
-    const response = characterStore?.characters.filter((s) =>
+    if (search == 'Geral') {
+      state.value.crews = characterStore.characters
+    } else {
+      const response = characterStore?.characters.filter((s) =>
         s.bando.toLowerCase().includes(search.toLowerCase())
     )
     state.value.crews = response 
+    }
+   
     console.log(state.value.crews, search)
-    return response
+    
   }
 
   function setCurrentCrew(crewId) {

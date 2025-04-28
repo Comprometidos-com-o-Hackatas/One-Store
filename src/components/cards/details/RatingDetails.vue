@@ -1,4 +1,6 @@
 <script setup>
+import { ref } from 'vue';
+
     defineProps({
         title: {
             type: String,
@@ -11,8 +13,14 @@
         rate: {
             type: String,
             required: true
+        },
+        rateAmount: {
+            type: Number,
+            required: true,
         }
     })
+
+    const favorite = ref(false)
 </script>
 <template>
 <div class="flex justify-between">
@@ -25,11 +33,11 @@
             <div class="flex">
                 <i v-for="i in 5" :key="i" :class="rate >= i ? 'mdi mdi-star text-amber-300' : 'mdi mdi-star-outline text-amber-300'"></i>
             </div>
-            <p class="text-neutral-300 text-[12px]">{{ rate }} (4123)</p>
+            <p class="text-neutral-300 text-[12px]">{{ rate }} ({{ rateAmount }})</p>
         </div>
     </div>
-    <div class="mt-2 me-5">
-        <i class="mdi mdi-heart-outline text-2xl text-neutral-300"></i>
+    <div @click="favorite = !favorite" class="mt-2 me-5">
+        <i :class="` text-2xl duration-150 ${favorite ? 'text-red-400 mdi mdi-heart' : 'text-neutral-300 mdi mdi-heart-outline'}`"></i>
     </div>
 </div>
 </template>
