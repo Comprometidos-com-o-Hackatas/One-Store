@@ -18,17 +18,17 @@ const props = defineProps({
       :modules="swiperModules"
       :space-between="5"
      
-      class="w-[80%] my-4"
+      class="w-[80%] md:w-[30%] my-4"   
     >
       <swiper-slide
         v-for="image, i in images"
         :key="i"
         class="relative flex items-center justify-center cursor-pointer w-40"
       >
-      <div class="w-[100%] h-80 relative flex items-center justify-center">
+      <div class="w-[100%] h-80 md:h-96 relative flex items-center justify-center">
         <img class="w-full h-full opacity-20" :src="image" alt="">
         <div class="absolute h-full w-full bg-transparent backdrop-blur-xl"></div>
-        <div class="w-[90%] absolute my-4 h-72 border-[#fb7d54] flex justify-center items-center border-radius border-3">
+        <div class="w-[90%] absolute my-4 h-72 md:h-96 border-[#fb7d54] flex justify-center items-center border-radius border-3">
         <img :src="image" alt="" srcset="" class="h-11/12 w-11/12 border-radius">
         </div>
     </div>

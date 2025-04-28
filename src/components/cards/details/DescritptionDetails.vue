@@ -8,8 +8,8 @@
 </script>
 <template>
     <div class="flex flex-col gap-3">
-        <h1 class="text-lg">Description</h1>
-        <p class="text-neutral-400 text-[10px] font-mono descricao" >{{ description }}</p>
+        <h1 class="text-lg md:text-xl">Description</h1>
+        <p class="text-neutral-400 text-[10px] md:text-[15px] font-mono descricao" >{{ description }}</p>
     </div>
 </template>
 

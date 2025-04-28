@@ -18,7 +18,7 @@ import { useRoute } from "vue-router";
 <div class="w-full flex-col flex">
 <ProductHeader :title="CharacterStore.selectedCharacter?.nome" />
 <DetailContainer>
-        <div class="w-11/12 flex-col flex gap-5">
+        <div class="w-11/12 md:w-8/12 flex-col flex gap-5">
             <ProductImages :images="CharacterStore.selectedCharacter?.imagens" />
             <RatingDetails :rate-amount="CharacterStore.selectedCharacter?.qtd_avaliacoes" :title="CharacterStore.selectedCharacter?.nome" :autor="CharacterStore.selectedCharacter?.bando" :rate="CharacterStore.selectedCharacter?.avaliacao"/>
             <DescritptionDetails class="mb-5" :description="CharacterStore.selectedCharacter?.descricao"/>

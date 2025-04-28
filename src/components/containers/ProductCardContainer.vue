@@ -21,7 +21,9 @@ const selectData = computed(()=> {
      <div v-if="charactersStore.state.error" class="w-full mt-5 flex justify-center">
         <p>Não Encontrado</p>
     </div>
-    <div v-else class="w-full h-auto flex flex-wrap justify-center items-center">
+    <div v-else class="w-full h-auto flex justify-center">
+        <div class="w-full md:w-8/12 h-auto flex flex-wrap justify-center items-center">
         <ProductCard v-for="crewMember in selectData" :key="crewMember.id" :name="crewMember.nome" :price="crewMember.preco" :rating="crewMember.avaliacao" @click="router.push('/details/' + crewMember.id)" :img="crewMember.imagens" />
+        </div>
     </div>
 </template>
