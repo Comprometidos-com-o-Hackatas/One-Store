@@ -1,4 +1,6 @@
 <script setup>
+import router from '@/router';
+
 const props = defineProps({
     title: {
         type: String,
@@ -8,7 +10,7 @@ const props = defineProps({
 </script>
 <template>
 <header class="w-full h-16 p-3 flex justify-between relative items-center px-5">
-    <span class="mdi mdi-arrow-left text-xl"></span>
+    <span class="mdi mdi-arrow-left text-xl" @click="router.push('/')"></span>
 
     <h1 class="text-lg">{{ props.title }}</h1>
    

@@ -14,5 +14,5 @@ onMounted(()=> {
   <Header />
   <ProductsOptions />
   <MarketingCard />
-  <ProductCard @click="router.push('/details/1')"/>
+  <ProductCard v-for="info in charctersStore.characters" :key="info.id" :name="info.nome" :price="info.preco" :rating="info.avaliacao" :img="info.imagens[0]" @click="router.push(`/details/${info.id}`)"/>
 </template>

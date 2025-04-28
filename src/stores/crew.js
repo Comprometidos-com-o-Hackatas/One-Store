@@ -6,6 +6,10 @@ export const useCrewStore = defineStore('crew', () => {
   // Aqui os dados de tripulação serão importados do arquivo JSON
   const crews = ref([
     {
+      id:0,
+      name: 'Exibir Tudo'
+    },
+    {
       id: 1,
       name: 'Chapéus de Palha',
     },
