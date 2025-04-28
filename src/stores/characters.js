@@ -3,12 +3,12 @@ import { defineStore } from 'pinia'
 
 
 export const useCharactersStore = defineStore('character', () => {
-  // Aqui os dados de personagens serão importados do arquivo JSON
   const state = reactive({
     characters: [],
     charactersByName: [],
     selectedCharacter: null,
   })
+  
   const characters = computed(()=> state.characters)
   const selectedCharacter = computed(()=> state.selectedCharacter)
   const charactersByName = computed(()=> state.charactersByName)
@@ -28,5 +28,11 @@ export const useCharactersStore = defineStore('character', () => {
     return response
   }
 
-  return { state, characters, selectedCharacter, charactersByName, GetCharacter, GetCharacterByName }
+  const getCharacterDetails = async (id) => {
+      const response = await fetch('../../data.json').then((response) => response.json())
+      const GetCharacterById = response.find(char => char.id === Number(id))
+      state.selectedCharacter = GetCharacterById
+  }
+
+  return { state, characters, selectedCharacter, charactersByName, GetCharacter, GetCharacterByName, getCharacterDetails }
 })

@@ -1,6 +1,4 @@
 <script setup>
-import { onMounted } from "vue"
-
     defineProps({
         title: {
             type: String,
@@ -15,7 +13,6 @@ import { onMounted } from "vue"
             required: true
         }
     })
-
 </script>
 <template>
 <div class="flex justify-between">

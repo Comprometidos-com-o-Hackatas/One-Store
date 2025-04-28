@@ -3,7 +3,6 @@ import { defineStore } from 'pinia'
 import { useCharactersStore } from '@/stores/characters'
 
 export const useCrewStore = defineStore('crew', () => {
-
   const state = ref({
     crews: [],
     possibleCrews: [

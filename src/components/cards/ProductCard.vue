@@ -1,6 +1,10 @@
 <script setup>
 import { ref } from 'vue'
 const props = defineProps({
+    img: {
+        type: URL,
+        required: true
+    },
     name: {
         type: String,
         default: 'Action Figure'
@@ -30,7 +34,7 @@ const emits = defineEmits([
     <div class="border-3 relative w-full h-full border-[#fb7d54] border-custom">
       
         <div class="flex h-full w-full items-end">
-            <img class=" h-44 z-20 w-full bottom-0 object-contain absolute" src="@/assets/images/goldDroger.png" alt="">
+            <img class=" h-40 z-20 w-full bottom-0 object-contain absolute" :src="img" alt="">
                    
             <div class="w-full z-30 bg-[#fb7d54] flex justify-center items-center p-2 border-description">
                 <p class="text-white font-extralight text-sm text-center">{{ props.name }}</p>

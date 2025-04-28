@@ -13,23 +13,23 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="flex flex-col items-center justify-center">
-    <swiper v-if="props.images.length > 1"
+  <div class="flex flex-col items-center P-1 justify-center">
+    <swiper v-if="props.images?.length > 1"
       :modules="swiperModules"
       :space-between="5"
      
       class="w-[70%] my-4"
     >
       <swiper-slide
-        v-for="images in 3"
-        :key="images.id"
+        v-for="image, i in images"
+        :key="i"
         class="relative flex items-center justify-center cursor-pointer w-40"
       >
       <div class="w-[100%] h-80 relative flex items-center justify-center">
         <img class="w-full h-full opacity-20" src="@/assets/images/goldDroger.png" alt="">
         <div class="absolute h-full w-full bg-transparent backdrop-blur-xl"></div>
         <div class="w-[90%] absolute my-4 h-72 border-[#fb7d54] flex justify-center items-center border-radius border-3">
-      <div class="bg-white h-11/12 w-11/12 border-radius"></div>
+        <img :src="image" alt="" srcset="" class="h-11/12 w-11/12 border-radius">
         </div>
     </div>
 
@@ -42,7 +42,7 @@ const props = defineProps({
         <img class="w-full h-full opacity-20" src="@/assets/images/goldDroger.png" alt="">
         <div class="absolute h-full w-full bg-transparent backdrop-blur-xl"></div>
         <div class="w-[90%] absolute my-4 h-72 border-[#fb7d54] flex justify-center items-center border-radius border-3">
-      <div class="bg-white h-11/12 w-11/12 border-radius"></div>
+        <img :src="images" alt="" srcset="" class="h-11/12 w-11/12 border-radius">
         </div>
     </div>
   </div>
