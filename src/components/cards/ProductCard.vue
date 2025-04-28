@@ -29,7 +29,7 @@ const emits = defineEmits([
 ])
 </script>
 <template>
- <span class=" flex flex-col w-32 h-56 m-20 hover:brightness-[95%] rounded-[11px] hover:bg-[rgba(0,0,0,0.05)] hover:scale-[103%] duration-200 cursor-default z-40 ">
+ <span class=" flex flex-col w-32 h-56 m-5 hover:brightness-[95%] rounded-[11px] hover:bg-[rgba(0,0,0,0.05)] hover:scale-[103%] duration-200 cursor-default z-40 ">
     <div class="h-9/12 cursor-pointer relative flex justify-center">
     <div class="border-3 relative w-full h-full border-[#fb7d54] border-custom">
       
